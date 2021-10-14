@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at **Miko as Research Intern**
 
-- 📫 How to reach me **mundrakhushi22@gmail.com**
+- 📫 You can reach me at **mundrakhushi22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/1/folders/1aJ64FxQ4QPXSGu4WRc8jRmGDGlOUMwTK](https://drive.google.com/drive/u/1/folders/1aJ64FxQ4QPXSGu4WRc8jRmGDGlOUMwTK)
+- 📄 Know about my experiences [https://kzilla.xyz/StNZS](https://kzilla.xyz/StNZS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
