@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khushi Mundra</h1>
-<h3 align="center">I am a final year engineering student from SRMIST. I am passionate about creative ideas😉 and analyzing things around me👀</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <a href="https://twitter.com/mundrakhushi" target="blank"><img src="https://img.shields.io/twitter/follow/mundrakhushi?logo=twitter&style=for-the-badge" alt="mundrakhushi" /></a> </p>
 
-- 🔭 I’m currently working at **Miko as Research Intern**
+Before embarking on my master’s journey at the University of Edinburgh Business School (proud grad now! 🎓), I was part of the team at Miko, serving as a Marketing Operations Associate. My journey there began as a research intern and transitioned into a full-time role.
 
-- 📫 You can reach me at **mundrakhushi22@gmail.com**
+I proudly donned the hat of a Software Engineer graduate. And yep, I’m one of those who discovered her true passion during engineering 👩‍🔧. Although I no longer dabble in coding, I’ve held tight to all those essential engineering traits that helped me earn my degree and continue navigating the world! 😎 
 
-- 📄 Know about my experiences [https://kzilla.xyz/StNZS](https://kzilla.xyz/StNZS)
+These days, I’m working as a freelance marketing consultant - helping brands craft their strategy, understand their markets, and go to market with confidence 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
