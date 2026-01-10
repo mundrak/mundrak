@@ -7,7 +7,7 @@ Before embarking on my master’s journey at the University of Edinburgh Busines
 
 I proudly donned the hat of a Software Engineer graduate. And yep, I’m one of those who discovered her true passion during engineering 👩‍🔧. Although I no longer dabble in coding, I’ve held tight to all those essential engineering traits that helped me earn my degree and continue navigating the world! 😎 
 
-These days, I’m working as a freelance marketing consultant - helping brands craft their strategy, understand their markets, and go to market with confidence 🚀
+These days, I’m working as a Senior Marketing Associate at LVX (LetsVenture) - helping craft their strategy, understand their markets, and go to market with confidence 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
