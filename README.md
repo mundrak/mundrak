@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Khushi Mundra</h1>
-<h3 align="center"></h3>
+<h3 align="center">Engineer by degree, marketer by destiny, foodie by heart</h3>
 
 <p align="left"> <a href="https://twitter.com/mundrakhushi" target="blank"><img src="https://img.shields.io/twitter/follow/mundrakhushi?logo=twitter&style=for-the-badge" alt="mundrakhushi" /></a> </p>
 
-Before embarking on my master’s journey at the University of Edinburgh Business School (proud grad now! 🎓), I was part of the team at Miko, serving as a Marketing Operations Associate. My journey there began as a research intern and transitioned into a full-time role.
+I'm currently a **Marketing Consultant at SabaiHealth** (Bangkok), setting up their marketing from scratch — branding, content, paid acquisition, and influencer partnerships, zero to one.
 
-I proudly donned the hat of a Software Engineer graduate. And yep, I’m one of those who discovered her true passion during engineering 👩‍🔧. Although I no longer dabble in coding, I’ve held tight to all those essential engineering traits that helped me earn my degree and continue navigating the world! 😎 
+Before this, I was **Sr. Marketing Associate at LVX** (formerly LetsVenture) in Bengaluru, leading their rebrand and lead-gen engine. Earlier still, I did my MSc at the **University of Edinburgh Business School** 🏴󠁧󠁢󠁳󠁣󠁴󠁿, and before that, Marketing Ops at **Miko** in Mumbai — intern to full-time in 18 months.
 
-These days, I’m working as a Senior Marketing Associate at LVX (LetsVenture) - helping craft their strategy, understand their markets, and go to market with confidence 🚀
+I studied engineering, found my real passion in marketing mid-degree, and never looked back — though I've kept every engineering habit that got me through the degree in the first place. 😎
+
+🌐 Take a look at my personal portfolio → **[mundrak.github.io](https://mundrak.github.io)**
+✍️ I write on [Substack](https://khushimundra.substack.com/) and [Medium](https://medium.com/@mundrakhushi22)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
