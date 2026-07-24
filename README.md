@@ -19,9 +19,30 @@ I studied engineering, found my real passion in marketing mid-degree, and never 
 </p>
 
 <h3 align="left">The toolbox 🛠:</h3>
+
+<p align="left"><strong>CRM</strong></p>
 <p align="left">
-<strong>CRM</strong> — Zoho, Airship, Mailchimp, HubSpot<br/>
-<strong>Ads</strong> — Meta Ads, LinkedIn Ads<br/>
-<strong>Design</strong> — Figma, Canva<br/>
-<strong>Analytics</strong> — Mixpanel, Google Analytics, Google Search Console
+<img src="https://img.shields.io/badge/Zoho-C8202F?style=for-the-badge&logo=zoho&logoColor=white" alt="Zoho" />
+<img src="https://img.shields.io/badge/Airship-101820?style=for-the-badge&logo=airship&logoColor=white" alt="Airship" />
+<img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" />
+<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
+</p>
+
+<p align="left"><strong>Ads</strong></p>
+<p align="left">
+<img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
+<img src="https://img.shields.io/badge/LinkedIn%20Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ads" />
+</p>
+
+<p align="left"><strong>Design</strong></p>
+<p align="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
+<p align="left"><strong>Analytics</strong></p>
+<p align="left">
+<img src="https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white" alt="Mixpanel" />
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+<img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console" />
 </p>
