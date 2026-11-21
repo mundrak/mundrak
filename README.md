@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/mundrakhushi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/twitter/follow/mundrakhushi?logo=twitter&style=for-the-badge" alt="mundrakhushi" /></a> </p>
 
-I'm currently a **Marketing Consultant at SabaiHealth**, setting up their marketing from scratch — branding, content, paid acquisition, and influencer partnerships, zero to one.
+I'm currently a **Product Operations Associate at CheQ** in Bengaluru.
 
-Before this, I was **Sr. Marketing Associate at LVX** (formerly LetsVenture), leading their rebrand and lead-gen engine. Earlier still, I did my MSc at the **University of Edinburgh Business School** 🏴󠁧󠁢󠁳󠁣󠁴󠁿, and before that, Marketing Ops at **Miko** — intern to full-time in 18 months.
+Before this, I was **Marketing Manager at SabaiHealth**, setting up their marketing from scratch — branding, content, paid acquisition, and influencer partnerships — and growing 7-day active users from 3.7K to 36K+ across five markets in three months. Before that, I was **Sr. Marketing Associate at LVX** (formerly LetsVenture), leading their rebrand and lead-gen engine. Earlier still, I did my MSc at the **University of Edinburgh Business School** 🏴󠁧󠁢󠁳󠁣󠁴󠁿, and before that, Marketing Ops at **Miko** — intern to full-time in 18 months.
 
 I studied engineering, found my real passion in marketing mid-degree, and never looked back — though I've kept every engineering habit that got me through the degree in the first place. 😎
 
